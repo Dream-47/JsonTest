@@ -1,0 +1,11 @@
+C:\Users\星汉云图\Documents\GitHub\JsonTest\JsonTest\bin\Debug\netcoreapp2.1\JsonTest.deps.json
+C:\Users\星汉云图\Documents\GitHub\JsonTest\JsonTest\bin\Debug\netcoreapp2.1\JsonTest.runtimeconfig.json
+C:\Users\星汉云图\Documents\GitHub\JsonTest\JsonTest\bin\Debug\netcoreapp2.1\JsonTest.runtimeconfig.dev.json
+C:\Users\星汉云图\Documents\GitHub\JsonTest\JsonTest\bin\Debug\netcoreapp2.1\JsonTest.dll
+C:\Users\星汉云图\Documents\GitHub\JsonTest\JsonTest\obj\Debug\netcoreapp2.1\JsonTest.csprojAssemblyReference.cache
+C:\Users\星汉云图\Documents\GitHub\JsonTest\JsonTest\obj\Debug\netcoreapp2.1\JsonTest.csproj.CoreCompileInputs.cache
+C:\Users\星汉云图\Documents\GitHub\JsonTest\JsonTest\obj\Debug\netcoreapp2.1\JsonTest.AssemblyInfoInputs.cache
+C:\Users\星汉云图\Documents\GitHub\JsonTest\JsonTest\obj\Debug\netcoreapp2.1\JsonTest.AssemblyInfo.cs
+C:\Users\星汉云图\Documents\GitHub\JsonTest\JsonTest\bin\Debug\netcoreapp2.1\JsonTest.pdb
+C:\Users\星汉云图\Documents\GitHub\JsonTest\JsonTest\obj\Debug\netcoreapp2.1\JsonTest.dll
+C:\Users\星汉云图\Documents\GitHub\JsonTest\JsonTest\obj\Debug\netcoreapp2.1\JsonTest.pdb
